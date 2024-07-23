@@ -21,6 +21,7 @@ Instructions to install and run:
 
       Right-click on the main application class and select Run As > Spring Boot App.
 
+#
    Project Structure
    Spring Boot:
    src
@@ -35,6 +36,8 @@ Instructions to install and run:
 │   ├── resources
 │       └── application.properties
 └── pom.xml
+
+#
 Static front end:
 src
 └── main
@@ -46,6 +49,8 @@ src
             │   └── script.js
             └── images
                 └── logo.png
+
+   #             
    Thymeleaf:
    src
 └── main
